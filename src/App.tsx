@@ -263,7 +263,7 @@ function App() {
                   <div className="space-y-4">
                     <div className="flex items-center space-x-3">
                       <Mail className="text-orange-600" />
-                      <span>john.doe@example.com</span>
+                      <span>ankit.sharma@example.com</span>
                     </div>
                     <div className="flex items-center space-x-3">
                       <Github className="text-orange-600" />
