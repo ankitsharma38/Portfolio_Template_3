@@ -4,6 +4,9 @@ This repository contains my personal portfolio built with React, Tailwind CSS, a
 
 **Screenshots
 ![My Screenshot](https://github.com/ankitsharma38/Portfolio_Template_3/blob/main/screenshots/hero.jpg?raw=true)
+![My Screenshot](https://github.com/ankitsharma38/Portfolio_Template_3/blob/main/screenshots/achievements.jpg?raw=true)
+![My Screenshot](https://github.com/ankitsharma38/Portfolio_Template_3/blob/main/screenshots/skills.jpg?raw=true)
+![My Screenshot](https://github.com/ankitsharma38/Portfolio_Template_3/blob/main/screenshots/contact.jpg?raw=true)
 
 
 **## Features
